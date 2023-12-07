@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\btvn\testgit\bin\Debug\testgit.exe.config
+C:\Users\Admin\Desktop\btvn\testgit\bin\Debug\testgit.exe
+C:\Users\Admin\Desktop\btvn\testgit\bin\Debug\testgit.pdb
+C:\Users\Admin\Desktop\btvn\testgit\obj\Debug\testgit.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\btvn\testgit\obj\Debug\testgit.Properties.Resources.resources
+C:\Users\Admin\Desktop\btvn\testgit\obj\Debug\testgit.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\btvn\testgit\obj\Debug\testgit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\btvn\testgit\obj\Debug\testgit.exe
+C:\Users\Admin\Desktop\btvn\testgit\obj\Debug\testgit.pdb
